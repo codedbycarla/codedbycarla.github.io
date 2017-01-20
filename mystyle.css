@@ -1,0 +1,35 @@
+Css Code:
+body {background: rgb(229,221,219);
+   }
+table {margin:1em auto;
+   }
+.point {width:200px;
+    margin:0 auto;
+    text-align:center;
+   }
+.para {margin: auto 10cm;
+   }
+h2 { margin: auto 10cm;
+   }
+h1 {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: rgb(189,147,113);
+   }
+.grade {font-family: "Comic Sans MS", cursive, sans-serif;
+        font-size:18px;
+   }
+.pic {background: rgb(120,71,67);    
+   }
+a {color: white;
+   }
+a:visited {color: hotpink;
+   }
+a:hover {color: green;
+   }
+.link {text-align: center;
+   }
+caption {font-size: 18px;
+   }
+.liner {text-align: center;
+   }
+
+
