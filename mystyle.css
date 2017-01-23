@@ -2,6 +2,10 @@ Css Code:
 body {background: rgb(229,221,219);
    }
 table {margin:1em auto;
+       cellspacing:1;
+       cellpadding:3;
+   }
+td {align:center;
    }
 .point {width:200px;
     margin:0 auto;
