@@ -2,9 +2,9 @@ Css Code:
 body {background: rgb(229,221,219);
    }
 table {margin:1em auto;
-       border:3;
-       border-spacing:1;
-       padding:3;
+       border:3px;
+       border-spacing:1px;
+       padding:3px;
    }
 tr {text-align:center;
    }
