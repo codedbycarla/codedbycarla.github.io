@@ -2,6 +2,7 @@ Css Code:
 body {background: rgb(229,221,219);
    }
 table {margin:1em auto;
+       border:3;
        cellspacing:1;
        cellpadding:3;
    }
