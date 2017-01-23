@@ -3,10 +3,10 @@ body {background: rgb(229,221,219);
    }
 table {margin:1em auto;
        border:3;
-       cellspacing:1;
-       cellpadding:3;
+       border-spacing:1;
+       padding:3;
    }
-tr {align:center;
+tr {text-align:center;
    }
 .point {width:200px;
     margin:0 auto;
