@@ -1,6 +1,7 @@
 body {background: rgb(229,221,219);
       line-height: 40px;
       background-size: cover;
+      background-position: center;
    }
 table {margin:1em auto;
    }
