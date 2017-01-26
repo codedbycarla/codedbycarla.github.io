@@ -30,6 +30,7 @@ a:visited {color: hotpink;
 a:hover {color: green;
    }
 .link {text-align: center;
+      color: blue;
    }
 caption {font-size: 22px;
    }
